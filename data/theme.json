@@ -1,0 +1,26 @@
+[{
+
+        "name": "all",
+        "localName": "Всі теми"
+    },
+    {
+        "name": "excise_tax",
+        "localName": "Акцизний податок"
+    },
+    {
+        "name": "currency",
+        "localName": "Валюта"
+    },
+    {
+        "name": "production",
+        "localName": "Виробництво й собівартість"
+    },
+    {
+        "name": "vacation",
+        "localName": "Відпустки"
+    },
+    {
+        "name": "business_trips",
+        "localName": "Відрядженя"
+    }
+]
